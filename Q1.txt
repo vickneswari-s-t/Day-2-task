@@ -1,0 +1,27 @@
+
+Write blog about document and window object?
+
+Window:
+********
+1.It is object of the browser.
+2.Window is the property that holds information about the browser screen.
+3.Used to display the screren,width,color,pixel.
+4.Window is the part of BOM.
+5.Loaded in browser.
+6.It represent the browser window.
+
+syntax:
+window.property_name;
+
+Document:
+1.It is the object of window property.
+2.It load inside the window.
+3.If document get load in the window .It becomes a document object.
+4.The document was with conent page.
+5.Using document javascript,html,css can modify add delete the attributes,styles.
+6.Document is the part of BOM & DOM.
+
+syntax : 
+document.property_name;   
+
+  
